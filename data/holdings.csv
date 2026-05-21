@@ -1,0 +1,26 @@
+account,name,company,ticker,exchange,shares
+ACC-001,Margaret Chen,Royal Bank of Canada,RY,TSX,323.32
+ACC-001,Margaret Chen,Shopify Inc.,SHOP,TSX,118.02
+ACC-001,Margaret Chen,Enbridge Inc.,ENB,TSX,44.08
+ACC-001,Margaret Chen,Canadian National Railway,CNR,TSX,347.2
+ACC-001,Margaret Chen,BCE Inc.,BCE,TSX,219.93
+ACC-002,David Okafor,Royal Bank of Canada,RY,TSX,87.5
+ACC-002,David Okafor,Shopify Inc.,SHOP,TSX,274.3
+ACC-002,David Okafor,Enbridge Inc.,ENB,TSX,437.49
+ACC-002,David Okafor,Canadian National Railway,CNR,TSX,261.94
+ACC-002,David Okafor,BCE Inc.,BCE,TSX,272.78
+ACC-003,Sarah Kowalski,Royal Bank of Canada,RY,TSX,90.67
+ACC-003,Sarah Kowalski,Shopify Inc.,SHOP,TSX,370.51
+ACC-003,Sarah Kowalski,Enbridge Inc.,ENB,TSX,207.85
+ACC-003,Sarah Kowalski,Canadian National Railway,CNR,TSX,499.24
+ACC-003,Sarah Kowalski,BCE Inc.,BCE,TSX,410.38
+ACC-004,James Thornton,Royal Bank of Canada,RY,TSX,31.6
+ACC-004,James Thornton,Shopify Inc.,SHOP,TSX,344.21
+ACC-004,James Thornton,Enbridge Inc.,ENB,TSX,393.37
+ACC-004,James Thornton,Canadian National Railway,CNR,TSX,172.26
+ACC-004,James Thornton,BCE Inc.,BCE,TSX,103.14
+ACC-005,Priya Nair,Royal Bank of Canada,RY,TSX,258.49
+ACC-005,Priya Nair,Shopify Inc.,SHOP,TSX,313.44
+ACC-005,Priya Nair,Enbridge Inc.,ENB,TSX,346.93
+ACC-005,Priya Nair,Canadian National Railway,CNR,TSX,228.5
+ACC-005,Priya Nair,BCE Inc.,BCE,TSX,197.69
